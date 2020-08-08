@@ -94,10 +94,9 @@ Guru Nanak Dev Engineering College Ludhiana
   \phone{ +91 9877166500}
   \mailaddress{Road no 2 Adarsh Nagar Tatisilwai Ranchi-835103 }
   \location{Ranchi, Jharkhand, India}
-  \homepage{viwekranjan.me/}
-  
-  \linkedin{vivek-ranjan-9918a4166}
-  \github{Viwekrajj}
+    \linkedin{vivek-ranjan-9918a4166}
+%   \homepage{viwekranjan.me/}
+   \github{Viwekrajj}
   
   %% You MUST add the academicons option to \documentclass, then compile with LuaLaTeX or XeLaTeX, if you want to use \orcid or other academicons commands.
   % \orcid{0000-0000-0000-0000}
@@ -138,27 +137,45 @@ Guru Nanak Dev Engineering College Ludhiana
 
 \cvsection{Projects}
 
-\cvevent{Employee Record System}{Funding agency/institution}{}{}
-\begin{itemize}
-\item Details
-\end{itemize}
+
+\cvevent{}{Phonebook}{june 2018}{}
+\cvtag{C}
+\cvtag{C++}
+\cvtag{Data Structure}\\
+In this users can add a new phone record, display existing phone records, search a particular phone record and delete phone records.
 \divider
-\cvevent{Phonebook}{Funding agency/institution}{Project duration}{}
-A short abstract would also work.
+\cvevent{}{Student Result Management System}{july 2019}{}
+\cvtag{HTML}
+\cvtag{Css}
+\cvtag{PHP}\\
+The main objective of the project is to provide the examination result to the student in a simple way.\\
 \divider
-\cvevent{Music Downloader}{Funding agency/institution}{Project duration}{}
+\cvevent{}{Real-time Chat Application}{Aug 2020}{}
+\cvtag{HTML}
+\cvtag{Css}
+\cvtag{Bootstrap}
+\cvtag{React}\\
+ exchange messages between a node js chat server and clients,\\
 \divider
-\cvevent{Result Management System}{Funding agency/institution}{Project duration}{}
+\cvevent{}{Productivity app}{july 2020}{}
+\cvtag{HTML}
+\cvtag{Css}
+\cvtag{Bootstrap}
+\cvtag{React}\\
+ In this app we can make our  daily schedule easier and maintain the record.It allow user to edit,add and delete their activity.\\
 \divider
-\cvevent{Real-time Chat Application}{Funding agency/institution}{Project duration}{}
+\cvevent{}{Barber Shop Website}{Dec 2019}{}
+\cvtag{HTML}
+\cvtag{Css}
+\cvtag{Bootstrap}\\
+A wide variety of web forms in this website  will make it possible to communicate with your target audience and tell them that your staff will do everything to meet their expectations.
 \divider
-\cvevent{Collaborative Drawing App}{Funding agency/institution}{Project duration}{}
+\cvevent{}{Image Caption Generator}{May 2020}{}
+\cvtag{Python}
+\cvtag{TensorFlow}\\
+Caption generation is a challenging artificial intelligence problem where a textual description must be generated for a given photograph.
 \divider
-\cvevent{Build an Entertainment App}{Funding agency/institution}{Project duration}{}
-\divider
-\cvevent{Sentiment Analysis}{Funding agency/institution}{Project duration}{}
-\divider
-\cvevent{Image Noise Reduction}{Funding agency/institution}{Project duration}{}
+
 \medskip
 
 % \cvsection{A Day of My Life}

@@ -241,7 +241,7 @@ Caption generation is a challenging artificial intelligence problem where a text
 
 \cvsection{Education}
 
-\cvevent{UNDERGRADUATE IT }{Guru Nanak Dev Engineering College Ludhiana}{2021(Expected)  CGPA:7.9/10}{}
+\cvevent{UNDERGRADUATE IT }{Guru Nanak Dev Engineering College Ludhiana}{2021(Expected)  CGPA:7.1/10}{}
 
 
 \divider
